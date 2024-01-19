@@ -1,2 +1,2 @@
 # credit_risk_scoring
-A credit risk scoring model utilizing random forest algorithm.
+A credit risk scoring project utilizing random forest algorithm.
